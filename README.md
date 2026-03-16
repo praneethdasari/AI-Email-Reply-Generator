@@ -69,7 +69,7 @@ AI-Email-Reply-Generator
 Clone the repository:
 
 ```id="lhbqgo"
-git clone https://github.com/praneethdasari/AI-Email-Reply-Generator.git
+git clone https://github.com/praneethdasari/AI-Email-Reply-Generator/
 ```
 
 Navigate into the project folder:
