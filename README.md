@@ -37,7 +37,7 @@ Note: The `.env` file is used to store the API key and should not be uploaded to
 Clone the repository:
 
 ```
-git clone https://github.com/praneethdasari/AI-Email-Reply-Generator
+git clone https://github.com/praneethdasari/AI-Email-Reply-Generator.git
 ```
 
 Navigate to the project folder:
